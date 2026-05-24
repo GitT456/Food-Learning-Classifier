@@ -9,11 +9,11 @@
 This project focuses on analyzing food habits and lifestyle behaviors using Machine Learning techniques.
 
 The dataset was:
-- cleaned 🧹
-- visualized 📈
-- preprocessed ⚙️
-- trained using multiple ML models 🤖
-- evaluated using different metrics 📊
+- cleaned 
+- visualized 
+- preprocessed 
+- trained using multiple ML models 
+- evaluated using different metrics 
 
 The main goal was to find the best classification model with the highest accuracy possible.
 
@@ -29,14 +29,14 @@ food_coded.csv
 
 The dataset contains information about:
 
-- 🍕 Food habits
-- 🏃 Exercise & sports
-- 🎓 GPA
-- ⚖️ Weight
-- 🥗 Nutrition behavior
-- 🔥 Calories
-- 🍟 Favorite foods
-- 🥤 Lifestyle choices
+-  Food habits
+-  Exercise & sports
+-  GPA
+-  Weight
+-  Nutrition behavior
+-  Calories
+-  Favorite foods
+-  Lifestyle choices
 
 ---
 
@@ -44,9 +44,9 @@ The dataset contains information about:
 
 The following algorithms were used:
 
-- 🌲 Random Forest Classifier
-- 👥 K-Nearest Neighbors (KNN)
-- 📐 Support Vector Machine (SVM)
+-  Random Forest Classifier
+-  K-Nearest Neighbors (KNN)
+-  Support Vector Machine (SVM)
 
 ---
 
@@ -54,11 +54,11 @@ The following algorithms were used:
 
 Several preprocessing techniques were applied:
 
-- ❌ Removing unnecessary text columns
-- 🧹 Handling missing values
-- 🔤 Label Encoding categorical features
-- 📏 Feature Scaling using StandardScaler
-- ✂️ Train/Test splitting
+-  Removing unnecessary text columns
+-  Handling missing values
+-  Label Encoding categorical features
+-  Feature Scaling using StandardScaler
+-  Train/Test splitting
 
 ---
 
@@ -66,14 +66,14 @@ Several preprocessing techniques were applied:
 
 Different plots were used for better understanding of the dataset:
 
-- 📦 Boxplot
-- 📉 Histogram
-- 🌡️ Correlation Heatmap
-- 🔗 Pairplot
-- 🎯 Target Distribution Plot
-- 🔥 Confusion Matrix Heatmap
-- 📈 Accuracy Comparison Plot
-- ⭐ Feature Importance Plot
+-  Boxplot
+-  Histogram
+-  Correlation Heatmap
+-  Pairplot
+-  Target Distribution Plot
+-  Confusion Matrix Heatmap
+-  Accuracy Comparison Plot
+-  Feature Importance Plot
 
 ---
 
